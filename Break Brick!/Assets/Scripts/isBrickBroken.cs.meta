@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6451114c62f38be418ea85a7cb9ccc88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - brickEffect: {instanceID: 0}
+  - brokenEffect: {instanceID: 0}
+  - redBrick: {fileID: 7092811582708395813, guid: a8839fdf06a961149b03dc99a5237bb6, type: 3}
+  - yellowBrick: {fileID: 7870276280779584792, guid: 2d2471ea387eb8d45babd5622fd5b300, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
